@@ -1,0 +1,25 @@
+.box
+{
+    background-color: aqua;
+    width:500px;
+    height:300px;
+    border-radius:30px;
+    margin:auto;
+    
+}
+.inputField
+{
+    border-radius: 10px;
+}
+.info{
+
+    text-align: center;
+    font-weight: bold;
+    
+    background-color:white;
+    height:200px;
+    width:400px;
+    margin:auto;
+    border-radius: 10px;
+
+}
